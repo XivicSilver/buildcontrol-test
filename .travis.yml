@@ -1,0 +1,13 @@
+language: node_js
+env:
+  global:
+    - "FTP_USER=bogdang"
+    - "FTP_PASSWORD=bogdangdevelop13#"
+node_js:
+  - '0.8'
+  - '0.10'
+before_script:
+  - 'npm install -g bower grunt-cli'
+  - 'bower install'
+after_success:
+    "wget -r ftp://projects-directory.com/ --user $FTP_USER --password $FTP_PASSWORD"
