@@ -1,0 +1,16 @@
+{
+    "name": "xv-jquery-sparkle",
+    "version": "0.0.1",
+    "homepage": "https://github.com/XivicSilver/xv-jquery-sparkle",
+    "dependencies": {
+        "jquery": "~1.8.3"
+    },
+    "devDependencies": {
+        "jquery": "~1.8.3"
+    },
+    "resolutions": {},
+    "_release": "0.0.1",
+    "_source": "git://github.com/XivicSilver/xv-jquery-sparkle.git",
+    "_target": "~0.0.1",
+    "_originalSource": "xv-jquery-sparkle"
+}

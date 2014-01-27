@@ -1,0 +1,22 @@
+{
+  "name": "xv-jquery-sparkle",
+  "version": "0.0.1",
+  "homepage": "https://github.com/XivicSilver/xv-jquery-sparkle",
+  "dependencies": {
+    "jquery": "~1.8.3"
+  },
+  "devDependencies": {
+    "jquery": "~1.8.3"
+  },
+  "resolutions": {},
+  "_release": "0.0.1",
+  "_source": "git@github.com:XivicSilver/xv-jquery-sparkle.git",
+  "_target": "~0.0.1",
+  "_originalSource": "git@github.com:XivicSilver/xv-jquery-sparkle.git",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "9051ddf3fea03473c8f1171a7a59ecc80303ad3b"
+  },
+  "_direct": true
+}
