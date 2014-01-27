@@ -327,7 +327,7 @@ module.exports = function (grunt) {
         pages: {
           options: {
             remote: 'git@github.com:gion/buildcontrol-test.git',
-            branch: 'gh-pages'
+            branch: 'build'
           }
         },
 /*        heroku: {
@@ -339,7 +339,7 @@ module.exports = function (grunt) {
         local: {
           options: {
             remote: '../',
-            branch: 'build3'
+            branch: 'build'
           }
         }
     }
